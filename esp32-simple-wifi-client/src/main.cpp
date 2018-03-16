@@ -1,6 +1,6 @@
 #include <Arduino.h>
-#include <ESP8266HTTPClient.h>
-#include <ESP8266WiFi.h>
+#include <HTTPClient.h>
+#include <WiFi.h>
 
 #define WIFI_SSID ""
 #define WIFI_PASS ""
