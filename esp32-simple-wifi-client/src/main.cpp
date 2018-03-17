@@ -4,7 +4,9 @@
 
 #define WIFI_SSID ""
 #define WIFI_PASS ""
-#define TARGET_URL "http://maker.ifttt.com/trigger/[event_name]/with/key/[maker_key]"
+#define EVENT_NAME ""
+#define MAKER_KEY ""
+#define TARGET_URL "http://maker.ifttt.com/trigger/" EVENT_NAME "/with/key/" MAKER_KEY // notice NOT HTTPS
 
 void setup() {
   Serial.begin(115200);
