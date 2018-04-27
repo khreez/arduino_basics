@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/cromero/.platformio/penv/bin:/Users/cromero/.platformio/penv:/Users/cromero/.nvm/versions/node/v0.12.15/bin:/Users/cromero/.sdkman/candidates/groovy/current/bin:/Users/cromero/.sdkman/candidates/grails/current/bin:/Users/cromero/.sdkman/candidates/gradle/current/bin:/usr/local/bin:/usr/local/sbin:/usr/local/opt/postgresql@9.4/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/bin:/usr/local/opt/maven/libexec/bin:/usr/local/opt/ant/libexec/bin:/usr/local/opt/go/libexec/bin:/Users/cromero/gocode/bin:/usr/local/opt/android-sdk/platform-tools:/Users/cromero/esp/xtensa-esp32-elf/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
